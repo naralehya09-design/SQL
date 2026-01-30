@@ -1,3 +1,17 @@
+<!-- BADGES SECTION -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Database-Structured%20Data-success?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Tool-SSMS-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</div>
+
+<hr>
 
 
 <h1>SQL (Structured Query Language)</h1>
