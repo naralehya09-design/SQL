@@ -13,9 +13,9 @@
 
 <hr>
 
-<div align="center">
+
 <h1>🗄️ SQL (Structured Query Language)</h1>
-    
+<div align="center">
 <div class="box">
     <p>
         SQL is a <strong>query language</strong>, not a programming language.  
