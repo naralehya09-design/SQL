@@ -1,38 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>SQL – Structured Query Language</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 6px;
-            border-radius: 4px;
-        }
-        .box {
-            background-color: #f9f9f9;
-            border-left: 5px solid #3498db;
-            padding: 10px;
-            margin: 15px 0;
-        }
-    </style>
-</head>
 
-<body>
 
 <h1>SQL (Structured Query Language)</h1>
-
+<center>
 <div class="box">
     <p>
         SQL is a <strong>query language</strong>, not a programming language.  
