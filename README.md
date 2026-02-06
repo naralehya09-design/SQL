@@ -204,3 +204,73 @@
 
 </body>
 </html>
+<h2>Difference Between Platform Dependent and Platform Independent</h2>
+
+<hr>
+
+<h3>Platform Dependent</h3>
+
+<p>
+A platform-dependent application works only on a <b>specific operating system</b>
+and sometimes on a <b>specific processor</b>.
+</p>
+
+<p>
+If an application runs only on a particular operating system with a particular
+processor, it is called <b>platform dependent</b>.
+</p>
+
+<h4>Example</h4>
+
+<p>
+Suppose Kamal sends a file to John.
+</p>
+
+<ul>
+  <li>Kamal’s Laptop: Windows 10, Intel i3 Processor</li>
+  <li>John’s Laptop: Ubuntu, Intel i5 Processor</li>
+</ul>
+
+<p>
+John downloads the file, but it does <b>not work</b> on his system.
+This means the file or application is <b>platform dependent</b>.
+</p>
+
+<p>
+The reason is that the application depends on a specific operating system
+or processor environment.
+</p>
+
+<hr>
+
+<h3>Platform Independent</h3>
+
+<p>
+A platform-independent application works on <b>any operating system</b>
+and <b>any processor</b>.
+</p>
+
+<p>
+Any processor plus any operating system is known as
+<b>platform independent</b>.
+</p>
+
+<h4>Example (Database)</h4>
+
+<p>
+Whenever you download and install a database, it runs as a <b>service</b>.
+This service behaves the same across different operating systems.
+</p>
+
+<p>
+Most SQL databases are <b>platform independent</b>.
+Once installed, the database can be used on Windows, Linux, or other platforms.
+</p>
+
+<hr>
+
+<h2>Master Database</h2>
+
+<p>
+When you install a database server, one database is provided by default.
+This default database
